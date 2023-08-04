@@ -12,3 +12,7 @@ Extracted data per year were then transformed into csv file where columns are se
 - diagnosis codes were categorized by ICD9, ICD10, CPT Criteria
 
 Exclusion models were applied to each dataset for further specification of a patient group.
+
+![alt text](https://github.com/hrhee8/Low-Back-Pain/blob/main/Screenshot%202023-01-25%20at%206.18.04%20PM.png)
+
+Each group were then categorized as specific and nonspecific group based for further research purposes
